@@ -1,6 +1,8 @@
-# yt-devmeetup-vue
+# Sesh App Test Application
 
-A dev meetup application built with Vue + Vuetify + Firebase.
+My first attempt at developing a Vue.JS + Vuetify social network meetup application for organising drinking meetups in Aberdeen.
+
+created using the help of tutorials found on https://www.academind.com/
 
 ## Build Setup
 
